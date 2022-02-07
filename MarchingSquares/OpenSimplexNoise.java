@@ -2423,4 +2423,5 @@ public class OpenSimplexNoise {
       GRADIENTS_4D[i] = grad4[i % grad4.length];
     }
   }
+  
 }
